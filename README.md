@@ -12,7 +12,8 @@ The Weather App is a React.js application that provides users with real-time wea
 
 ## Demo
 
-![Alt text](image.png)
+![image](https://github.com/nandinikashyap1902/Weather_WebApp/assets/110680375/228d17b6-c925-4774-9f85-a0a3cf700923)
+
 
 ## Getting Started
 
